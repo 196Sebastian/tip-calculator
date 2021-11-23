@@ -12,8 +12,8 @@
     <color name="blue_dark">#006db3</color>
     <color name="blue_light">#63ccff</color>
 
-    <color name="grey">#90a4ae</color>
-    <color name="grey_dark">#62757f</color>
-    <color name="grey_light">#c1d5e0</color>
+    <color name="yellow">#ffee58</color>
+    <color name="yellow_dark">#c9bc1f</color>
+    <color name="yellow_light">#ffff8b</color>
 
 </resources>
